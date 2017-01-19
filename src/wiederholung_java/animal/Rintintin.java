@@ -1,0 +1,8 @@
+package wiederholung_java.animal;
+
+public interface Rintintin{
+	  public void faireCalin();
+	  public void faireLechouille();
+	  public void faireLeBeau();
+	 
+	}
